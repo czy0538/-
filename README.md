@@ -15,38 +15,38 @@
 
    <img src="png\Annotation 2020-02-02 235532.png" style="zoom:50%;" />
 
-   <img src="C:\Users\czy05\Desktop\问卷星格式化\png\Annotation 2020-02-02 235726.png" style="zoom:50%;" />
+   <img src="png\Annotation 2020-02-02 235726.png" style="zoom:50%;" />
 
 
 
 2. 将下载下来的文件放入“问卷星格式化”文件夹下
 
-   <img src="C:\Users\czy05\Desktop\问卷星格式化\png\Annotation 2020-02-03 000002.png" style="zoom:50%;" />
+   <img src="png\Annotation 2020-02-03 000002.png" style="zoom:50%;" />
 
    
 
 3. 运行Formatting.exe，输入文件名并回车
 
-   <img src="C:\Users\czy05\Desktop\问卷星格式化\png\Annotation 2020-02-03 000151.png" style="zoom:50%;" />
+   <img src="png\Annotation 2020-02-03 000151.png" style="zoom:50%;" />
 
-   ![](C:\Users\czy05\Desktop\问卷星格式化\png\Annotation 2020-02-03 000241.png)
+   ![](png\Annotation 2020-02-03 000241.png)
 
 4. 待窗口消失后，文件名.xlsx即为格式化后的文件
 
-   <img src="C:\Users\czy05\Desktop\问卷星格式化\png\Annotation 2020-02-03 000355.png" style="zoom:50%;" />
+   <img src="png\Annotation 2020-02-03 000355.png" style="zoom:50%;" />
 
 ## 二、自定义文件模版
 
 1、建立一个示例原始文件，复制进“导出.xlsm”中
 
-<img src="C:\Users\czy05\Desktop\问卷星格式化\png\Annotation 2020-02-03 001120.png" style="zoom:50%;" />
+<img src="png\Annotation 2020-02-03 001120.png" style="zoom:50%;" />
 
 2、录制宏
 
-<img src="C:\Users\czy05\Desktop\问卷星格式化\png\Annotation 2020-02-03 001224.png" style="zoom:50%;" />
+<img src="png\Annotation 2020-02-03 001224.png" style="zoom:50%;" />
 
 3、 对宏进行修改并且命名为Formatting
 
-<img src="C:\Users\czy05\Desktop\问卷星格式化\png\Annotation 2020-02-03 001338.png" style="zoom:50%;" />
+<img src="png\Annotation 2020-02-03 001338.png" style="zoom:50%;" />
 
 4、 保存，运行Formatting即可
