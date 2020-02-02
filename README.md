@@ -13,7 +13,7 @@
 
 1. 在问卷星管理后台下载文件数据
 
-   <img src="C:\Users\czy05\Desktop\问卷星格式化\png\Annotation 2020-02-02 235532.png" style="zoom:50%;" />
+   <img src="png\Annotation 2020-02-02 235532.png" style="zoom:50%;" />
 
    <img src="C:\Users\czy05\Desktop\问卷星格式化\png\Annotation 2020-02-02 235726.png" style="zoom:50%;" />
 
